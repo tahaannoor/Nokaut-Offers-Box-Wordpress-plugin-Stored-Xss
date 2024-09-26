@@ -1,0 +1,4 @@
+1. Go to the Nokaut offers box Plugin panel in your wordpress settings.
+2. In panel Nazwa domyślnego szablonu field is vulnerable.
+3.Enter the below payload into these input field and click on Save Changes button: 
+"><script>alert(document.cookie)</script>
